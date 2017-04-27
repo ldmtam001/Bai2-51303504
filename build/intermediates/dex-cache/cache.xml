@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/tamle/.android/build-cache/495312abad01a15fc3239fe1cfce5dc9082e714c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/tamle/Desktop/bai2/app/build/intermediates/pre-dexed/debug/classes_327041aa1906c87578a2aca9b24b425b905fa52a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tamle/.android/build-cache/82a29e39a7d54efe60be6e42ee13dd9e1d8c71dc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/tamle/Desktop/bai2/app/build/intermediates/pre-dexed/debug/classes_57f9a01dcead5bd93bca05d8086e8464ca71b8aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tamle/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/tamle/Desktop/bai2/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_88674be90374286cb4fdfbaa7374c6e997e7c165.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tamle/.android/build-cache/fc002fdc159693dc808605da6a0cfd8937993d23/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/tamle/Desktop/bai2/app/build/intermediates/pre-dexed/debug/classes_f5bef03d099e38d015986b23ca0e7eb2e516a4ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tamle/.android/build-cache/cc547905d80adb72b385fadc0632dd906ec4be8e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/tamle/Desktop/bai2/app/build/intermediates/pre-dexed/debug/classes_365866810b909f07363e2080c49098756be503c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tamle/.android/build-cache/f2a5524276eea4231e084b5531952709020dd9a2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/tamle/Desktop/bai2/app/build/intermediates/pre-dexed/debug/classes_8948347cedfee6a86a29edb2ed25c5f31fff1dfe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tamle/.android/build-cache/661e90d9b0c4d63b43e421ca9ce74fc9c54edaaa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/tamle/Desktop/bai2/app/build/intermediates/pre-dexed/debug/classes_0c1528acf1bb799de0124cfe0b39b77f04a129c4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tamle/Desktop/bai2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eb7f2f41f083758bcb80696999ec37369498347d">
+        <dex dex="/Users/tamle/Desktop/bai2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_92338bf4033c694b9fedc6006adcf20e54997d0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tamle/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/tamle/Desktop/bai2/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_b184d4885107a9b081cdde62dcba4261a6c0d1ef.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tamle/Desktop/bai2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/tamle/Desktop/bai2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8919af81d9fb5c578ceebbbb1415495dec16dbed/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tamle/.android/build-cache/f5a95069939b71c3931ae711b39ccd0cbccd3cfa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/tamle/Desktop/bai2/app/build/intermediates/pre-dexed/debug/classes_195b893c9221f3d43c9c2d6c0b861f02d8eb9d5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tamle/.android/build-cache/ff4ac0ff90d171b1240413adafad74c2879ebd96/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/tamle/Desktop/bai2/app/build/intermediates/pre-dexed/debug/classes_694b96670280805d7f21555dfce5d7fbf114e186.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tamle/.android/build-cache/3538f5dce6042a009b52adfaae6707710d29d668/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/tamle/Desktop/bai2/app/build/intermediates/pre-dexed/debug/classes_43e5175c0d391780dd59dd879163afc5d4c71802.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tamle/.android/build-cache/606cb34db793cca62e1206818eee67f57192d364/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/tamle/Desktop/bai2/app/build/intermediates/pre-dexed/debug/classes_e8392b15c484056edc7598fa174f4dc896551a1f.jar" />
+    </item>
+
+</items>

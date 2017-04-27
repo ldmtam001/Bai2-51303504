@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="I am super man"
+        android:id="@+id/viewFrag"
+        android:fontFamily="sans-serif"
+        android:textSize="30sp"
+        android:paddingTop="10dip"
+        android:paddingLeft="10dip"
+        android:textColor="@color/colorPrimaryDark"/>
+</LinearLayout>
